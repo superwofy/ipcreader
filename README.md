@@ -1,6 +1,6 @@
 # QNX IPC Channel Reader
 
-A lightweight utility for monitoring IPC channels from the "io-ipc" resource manager in QNX on Harman OMAP+J5 platforms.
+A lightweight utility for monitoring IPC channels from the "io-ipc" resource manager in QNX on Harman OMAP+J5 (NBT Evo, DIS2 etc.) platforms.
 
 ## Overview
 
@@ -68,7 +68,7 @@ With the jacinto flag (`j`), these become:
 - Raw receive channel: `/net/hu-jacinto/dev/ipc/raw/rx_0`
 - Raw transmit channel: `/net/hu-jacinto/dev/ipc/raw/tx_0`
 
-## Channel mapping
+## NBT Evo (ID6) channel mapping
 
 ```
 [OMAP]:
